@@ -12,7 +12,7 @@ layout: default
 
 # <u><b>About Me</b></u>
 <blockquote>
-Hi, I am  Suresh P. I am a Second year Electronics and Communications student  @ <a Al-Ameen Engineering College</a>.
+Hi, I am  Suresh P. I am a Second year Electronics and Communications student.
 I would Like to do electronics projects and upgrade my skill.
 </blockquote>
 ____
